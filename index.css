@@ -1,0 +1,47 @@
+/* Tabs */
+.k-tabs{
+    background-color: var(--background-color);
+    border: none;
+    border-bottom: 1px solid var(--color-border);
+    border-radius: 0;
+    margin-top: .65rem;
+}
+
+.k-tabs nav{
+    justify-content: flex-start;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.k-tab-button.k-button{
+    padding: 1.15rem 3rem 1.15rem 0;
+    flex-grow: 0;
+    color: var(--color-gray-600);
+}
+
+[dir=ltr] .k-tab-button.k-button{
+    border: none;
+}
+
+[dir=ltr] .k-tab-button[aria-current]:first-child{
+    border-left: none;
+}
+
+.k-tab-button[aria-current]{
+    color: var(--color-gray-900);
+}
+
+.k-tab-button[aria-current]:before{
+    width: calc(100% - 3rem);
+    top: auto;
+    bottom: -1px;
+}
+
+.k-tab-button[aria-current]:after{
+    display: none;
+}
+
+[dir=ltr] .k-tabs-badge{
+    top: .75rem;
+    right: 1.5rem;
+}
