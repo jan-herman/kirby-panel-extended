@@ -2,4 +2,4 @@
 
 use Kirby\Cms\App as Kirby;
 
-Kirby::plugin('jan-herman/kirby-panel-extended', []);
+Kirby::plugin('jan-herman/panel-extended', []);

@@ -1,9 +1,10 @@
 {
     "name": "jan-herman/kirby-panel-extended",
     "description": "Collection of Kirby admin panel enhancements.",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "type": "kirby-plugin",
     "license": "MIT",
+    "homepage": "https://github.com/jan-herman/kirby-panel-extended",
     "authors": [
         {
             "name": "Jan Herman",
@@ -13,11 +14,12 @@
     ],
     "require": {
         "php": "^8.1",
+        "getkirby/cms": "^4.0",
         "getkirby/composer-installer": "^1.2"
     },
     "extra": {
-		"installer-name": "panel-extended"
-	},
+        "installer-name": "panel-extended"
+    },
     "config": {
         "optimize-autoloader": true
     }
