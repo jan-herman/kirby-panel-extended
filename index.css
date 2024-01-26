@@ -21,3 +21,7 @@
 .k-item-content{
     align-items: center;
 }
+
+.k-items[data-layout=cardlets][data-size=full] {
+    --items-size: 100%;
+}

@@ -1,5 +1,10 @@
 # Changelog
 
+## [2.1.0] - 2024-01-26
+### Added
+- bugfix: Cardlets layout ignored size full
+
+
 ## [2.0.0] - 2024-01-13
 ### Added
 - support for Kirby 4.0
