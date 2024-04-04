@@ -17,6 +17,12 @@
 }
 
 
+/* Figcaption */
+.k-block-figure figcaption{
+    text-align: left;
+}
+
+
 /* Bugfixes */
 .k-item-content{
     align-items: center;

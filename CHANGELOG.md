@@ -1,5 +1,26 @@
 # Changelog
 
+## [2.2.0] - 2024-04-04
+### Added
+- align block field figcaptions to the left
+- commonly used icons:
+    - 'layout-grid'
+    - 'layout-column'
+    - 'layout-row'
+    - 'layout-masonry'
+    - 'layout-top'
+    - 'layout-bottom'
+    - 'layout-left'
+    - 'layout-right'
+    - 'vertical-align-top'
+    - 'vertical-align-center'
+    - 'vertical-align-bottom'
+    - 'carousel-view'
+    - 'stacked-view'
+    - 'gallery-view'
+    - 'twitter-x'
+
+
 ## [2.1.0] - 2024-01-26
 ### Added
 - bugfix: Cardlets layout ignored size full
