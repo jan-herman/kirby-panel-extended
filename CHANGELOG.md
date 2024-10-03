@@ -1,5 +1,10 @@
 # Changelog
 
+## [2.2.1] - 2024-10-03
+### Fixed
+- bugfix: Figcaptions were not aligned to the left
+
+
 ## [2.2.0] - 2024-04-04
 ### Added
 - align block field figcaptions to the left

@@ -18,8 +18,8 @@
 
 
 /* Figcaption */
-.k-block-figure figcaption{
-    text-align: left;
+.k-block-figure-caption{
+    justify-content: flex-start;
 }
 
 
