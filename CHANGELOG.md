@@ -1,5 +1,10 @@
 # Changelog
 
+## [2.3.0] - 2025-07-21
+### Added
+- Kirby 5 compatibility
+
+
 ## [2.2.1] - 2024-10-03
 ### Fixed
 - bugfix: Figcaptions were not aligned to the left
