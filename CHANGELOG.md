@@ -1,5 +1,14 @@
 # Changelog
 
+## [2.4.0] - 2025-07-22
+### Added
+- Custom CSS Variables
+    - `--jh-item-image-color-bg`
+    - `--jh-item-image-color`
+    - `--jh-item-empty-image-color-bg`
+    - `--jh-item-empty-image-color`
+
+
 ## [2.3.0] - 2025-07-21
 ### Added
 - Kirby 5 compatibility

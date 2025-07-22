@@ -1,3 +1,13 @@
+/* Custom Variables */
+:root{
+    --jh-item-image-color-bg: light-dark(var(--color-gray-100), var(--color-gray-800));
+    --jh-item-image-color: currentColor;
+
+    --jh-item-empty-image-color-bg: light-dark(var(--color-gray-500), var(--color-gray-800));
+    --jh-item-empty-image-color: light-dark(var(--color-gray-800), var(--color-gray-500));
+}
+
+
 /* Tabs */
 .k-header + .k-tabs{
     --button-height: var(--height-xl);
